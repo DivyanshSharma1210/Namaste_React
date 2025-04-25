@@ -1,0 +1,27 @@
+{
+  "name": "learning_react",
+  "version": "1.0.0",
+  "description": "Igniting our App",
+  "keywords": [
+    "React",
+    "JavaScipt"
+  ],
+  "license": "ISC",
+  "author": "Dibyansh Sharma",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 10 versions",
+    "cover 99% in US"
+  ]
+}
