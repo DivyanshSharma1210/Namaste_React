@@ -1,0 +1,23 @@
+{
+  "name": "episode_3",
+  "version": "1.0.0",
+  "description": "Laying the Foundation",
+  "scripts": {
+    "test":"jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "keywords": [
+    "React",
+    "JavaScript"
+  ],
+  "author": "Dibyansh Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
